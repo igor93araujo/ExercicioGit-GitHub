@@ -2,3 +2,4 @@
 Repositório criado para executar as tarefas de git e github [aula 2.2]
 
 ## Alteração 1
+### Alteração 1 e 2
